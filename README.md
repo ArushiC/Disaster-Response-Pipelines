@@ -25,6 +25,9 @@ python run.py
 
 - Go to http://0.0.0.0:3001/
 
+# Output Screenshot
+<img width="1263" alt="Output" src="https://user-images.githubusercontent.com/10444093/77122184-35963b80-69fa-11ea-9a1c-03fb9ae4ddf5.png">
+
 # Install
 This project requires Python 3.6 and the following Python libraries installed:
 
@@ -44,6 +47,3 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 # Licensing and Acknowledgements
 Thanks to Udacity for providing access to Figure Eight disaster data used in this project and guidance
-
-# Output Screenshot
-<img width="1263" alt="Output" src="https://user-images.githubusercontent.com/10444093/77122184-35963b80-69fa-11ea-9a1c-03fb9ae4ddf5.png">
